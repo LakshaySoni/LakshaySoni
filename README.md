@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LakshaySoni
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics with Python and Mysql
+- 🌱 I’m currently learning Data Analytics with PowerBI, Sql Server and Excel.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Lakshaysoni203@gmail.com
 
